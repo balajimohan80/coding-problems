@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="First_And_Last_Pos_Sort.cpp">
+    <ClCompile Include="Source_To_Be_Dele.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
