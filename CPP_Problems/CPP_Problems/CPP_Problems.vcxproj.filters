@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Rotate_Sorted_Arr.cpp">
+    <ClCompile Include="Maximum_SubArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
