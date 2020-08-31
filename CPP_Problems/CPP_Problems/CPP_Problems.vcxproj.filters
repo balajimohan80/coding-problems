@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Find_Closest_Num.cpp">
+    <ClCompile Include="Sparse_Matrix_Multiplication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

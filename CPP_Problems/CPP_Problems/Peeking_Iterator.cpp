@@ -2,7 +2,7 @@
 #include<vector>
 
 //impressed
-//frquent
+//frequently
 //practice again
 
 
