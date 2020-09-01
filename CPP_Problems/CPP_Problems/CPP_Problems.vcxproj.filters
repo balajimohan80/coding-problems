@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sparse_Matrix_Multiplication.cpp">
+    <ClCompile Include="Find_Duplicate_File_In_System.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
