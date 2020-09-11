@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exclusive_Time_Functions.cpp">
+    <ClCompile Include="BestTime_to_Buy_and_Sell_Stock.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
