@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BestTime_to_Buy_and_Sell_Stock.cpp">
+    <ClCompile Include="Design_Vector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
