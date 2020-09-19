@@ -14,7 +14,7 @@ namespace BALU {
 	public:
 		using ValueType        = typename T::ValueType;
 		using PointerType      = ValueType*;
-		using ReferenceType       = ValueType&;
+		using ReferenceType    = ValueType&;
 	public:
 		V_Iterator(PointerType ptr): m_Ptr(ptr) {
 

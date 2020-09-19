@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Design_Vector.cpp">
+    <ClCompile Include="Add_Strings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
